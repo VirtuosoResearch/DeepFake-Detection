@@ -1,0 +1,7 @@
+kaggle
+opendatasets
+tensorflow-addons
+tensorflow==2.14.0
+torch
+torchvision
+transformers
