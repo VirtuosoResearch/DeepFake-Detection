@@ -20,7 +20,7 @@ Ensure you have Python installed on your system and follow these steps:
 The project uses the "Deepfake and Real Images" dataset from Kaggle, consisting of real and deepfake-generated images.
 
 ### Dataset Details
-**Source**: Sourced from Kaggle, provided by user Manjil Karki, which is a part of the OpenForensics dataset. This dataset is specifically designed for the challenging task of multi-face forgery detection and segmentation in-the-wild.
+**Source**: Sourced from Kaggle [https://www.kaggle.com/datasets/manjilkarki/deepfake-and-real-images], provided by user Manjil Karki, which is a part of the OpenForensics dataset [https://zenodo.org/records/5528418#.YpdlS2hBzDd]. This dataset is specifically designed for the challenging task of multi-face forgery detection and segmentation in-the-wild.
 
 ### Original Dataset Citation
 The OpenForensics dataset used in this project was introduced in the following research paper:
